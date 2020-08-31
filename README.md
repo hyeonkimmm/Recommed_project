@@ -5,3 +5,4 @@ https://lamttic.github.io/2020/03/20/01.html
 
 
 * [추천시스템 실습](recommend_project.ipynb)
+* [추천시스템 요약](recommend_system_summary.ipynb)
